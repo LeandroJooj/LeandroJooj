@@ -2,5 +2,5 @@
 - 👀 I’m interested in Rust and Go
 - 🌱 I’m currently learning php and java web
 - 📫 How to reach me: <br>
-- <pre>Email= georgeleandro1@hotmail.com </pre>
-  <pre>Linkedin= https://www.linkedin.com/in/george-santos-leandro-b021921b3</pre>
+- <pre>Email= geojihi@gmail.com </pre>
+  <pre>Linkedin= https://www.linkedin.com/in/georgedev</pre>
